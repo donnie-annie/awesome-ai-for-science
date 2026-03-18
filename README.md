@@ -168,6 +168,7 @@
 ### Interactive Research Environments
 - [Jupyter AI (JupyterLab Extension)](https://github.com/jupyterlab/jupyter-ai) - Official Jupyter extension with `%%ai` magic commands and sidebar chat assistant, connecting multiple model providers and local inference
 - [Notebook Intelligence (NBI)](https://github.com/notebook-intelligence/notebook-intelligence) - AI coding assistant for JupyterLab with agent mode, supporting arbitrary LLM providers (2025+)
+- [OpenCode](https://github.com/sst/opencode) - Open-source terminal-based AI coding assistant for research scripting and data pipelines, supporting multiple providers (Anthropic, OpenAI, Google, etc.); install with `npm install -g opencode-ai`
 - [Google Colab AI Features](https://colab.research.google.com/) - Integrated AI assistance for data science and research notebooks
 
 ### Literature Management Plugins
